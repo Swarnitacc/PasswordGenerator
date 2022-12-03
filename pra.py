@@ -11,9 +11,6 @@
 2 digits from 0 to 9,
 2 punctuation signs such as !, ?, “, # etc.'''
 
-'''Second Commit'''
-
-
 
 # import random
 # password = random.randint(64-91)
