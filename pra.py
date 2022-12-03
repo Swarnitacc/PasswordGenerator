@@ -1,14 +1,5 @@
-# from xmlrpc.server import DocCGIXMLRPCRequestHandler
-
-
-# def format_name():
-#     f = input("Enter a name")
-#     l = input("Enter last name")
-#     f_name = (f.capitalize())
-#     l_name = (l.capitalize())
-#     print (f"{f_name} {l_name}")
-
-# format_name()
+#project 1 :- Create a code generator. This can that take text as input, replaces each letter with another letter, 
+# and outputs the “encoded” message.
 
 '''For this challenge, we will use a Python script to
  generate a random password of 8 characters. Each time 
@@ -23,8 +14,6 @@
 # import random
 # password = random.randint(64-91)
 
-#project 1 :- Create a code generator. This can that take text as input, replaces each letter with another letter, 
-# and outputs the “encoded” message.
 import string
 import random
  
@@ -45,6 +34,17 @@ def pst():
 
 print(pst())
 
+# from xmlrpc.server import DocCGIXMLRPCRequestHandler
+
+
+# def format_name():
+#     f = input("Enter a name")
+#     l = input("Enter last name")
+#     f_name = (f.capitalize())
+#     l_name = (l.capitalize())
+#     print (f"{f_name} {l_name}")
+
+# format_name()
 
 
 
